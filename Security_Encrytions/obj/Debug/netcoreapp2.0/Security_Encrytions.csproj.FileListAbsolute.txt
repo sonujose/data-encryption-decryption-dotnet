@@ -1,0 +1,11 @@
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\bin\Debug\netcoreapp2.0\Security_Encrytions.deps.json
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\bin\Debug\netcoreapp2.0\Security_Encrytions.runtimeconfig.json
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\bin\Debug\netcoreapp2.0\Security_Encrytions.runtimeconfig.dev.json
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\bin\Debug\netcoreapp2.0\Security_Encrytions.dll
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\bin\Debug\netcoreapp2.0\Security_Encrytions.pdb
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.csprojResolveAssemblyReference.cache
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.csproj.CoreCompileInputs.cache
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.AssemblyInfoInputs.cache
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.AssemblyInfo.cs
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.dll
+D:\Sonu\dotnetprojects\Security_Encrytions\Security_Encrytions\obj\Debug\netcoreapp2.0\Security_Encrytions.pdb
